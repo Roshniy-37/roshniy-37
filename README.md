@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshniy-37&label=Profile%20views&color=0e75b6&style=flat" alt="roshniy-37" /> </p>
 
 
-- 🔭 I’m currently working on **React JS**
+- 🔭 I’m currently working on **Next JS**
 
-- 🌱 I’m currently learning **MERN Stack and Java**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Python and MySQL**
 
